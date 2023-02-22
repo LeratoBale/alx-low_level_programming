@@ -4,7 +4,7 @@
 
 /**
  * main -  prints the alphabet in lowercase, and then in uppercase
- * Return: Always 0.
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -17,7 +17,7 @@ int main(void)
 
 	for (low = 'A'; low <= 'Z'; low++)
 	putchar(low);
-	putchar('n');
+	putchar('\n');
 
 	return (0);
 }
