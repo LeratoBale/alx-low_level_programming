@@ -2,7 +2,7 @@
 
 /**
  * _strlen - function that returns the length of a string
- * @str: string to get length
+ * @s: string to get length
  * Return: Lengthof str
  */
 
